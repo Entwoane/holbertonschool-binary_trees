@@ -2,7 +2,7 @@
 
 Binary Tree is a non-linear and hierarchical data structure where each node has at most two children referred to as the left child and the right child.  The topmost node in a binary tree is called the root, and the bottom-most nodes are called leaves.
 
-![binary-tree](https://media.geeksforgeeks.org/wp-content/uploads/20240811023816/Introduction-to-Binary-Tree.webp|400)
+![binary-tree](https://media.geeksforgeeks.org/wp-content/uploads/20240811023816/Introduction-to-Binary-Tree.webp)
 
 ## Representation of Binary Tree
 
@@ -12,7 +12,7 @@ Each node in a Binary Tree has three parts:
 - Pointer to the left child
 - Pointer to the right child
 
-![binary-representation](https://media.geeksforgeeks.org/wp-content/uploads/20240811023858/Binary-Tree-Representation.webp|400)
+![binary-representation](https://media.geeksforgeeks.org/wp-content/uploads/20240811023858/Binary-Tree-Representation.webp)
 
 ## Data Structure used for this project
 
