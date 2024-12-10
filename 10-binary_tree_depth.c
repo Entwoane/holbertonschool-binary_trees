@@ -2,7 +2,7 @@
 #include <stdlib.h>
 
 /**
- * binary_tree_size - Measures the size of a binary tree
+ * binary_tree_depth -  measures the depth of a node in a binary tree
  * @tree: Pointer to the root node of the tree to measure the size
  *
  * Return: Size of the tree, 0 if tree is NULL
